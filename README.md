@@ -1,5 +1,5 @@
 # MercadoTech
-Juan Carlos Yespes Garcia
+Juan Carlos Yespes Garcia :scream:
 Natalia Madera Morelo
 <<<<<<< HEAD
 Daniela Muñoz Palacio
